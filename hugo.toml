@@ -1,3 +1,4 @@
 baseURL = "https://dinhhuy2010.dev/"
 locale = "en-us"
 title = "DinhHuy2010's personal website"
+theme = "PaperMod"
